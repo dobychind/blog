@@ -2,16 +2,16 @@
 title: My last week.
 
 # Summary for listings and search engines
-summary: Hi, this is my first post and it will be about my last week.
+summary: Hi, this is post about my last week.
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2022-05-07T21:35:40Z'
+date: '2022-05-14T21:35:40Z'
 
 # Date updated
-lastmod: '2022-05-07T21:35:40Z'
+lastmod: '2022-05-14T21:35:40Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -39,4 +39,4 @@ categories:
 
 ##My last week
 
-My last week was very interesting. I was doing my laboratornie works for operacionnie systems, it was so cool, also during first part of a may holidays I've come to Ug. Hope that naxt week dollar will be equals 25 rubles.
+My last week was very interesting. I was doing my laboratornie works for operacionnie systems, it was so cool, i've  arrived from ug, today i was drawing the wall is studUnion. Dollar is already 60. Next week will be 52))).
